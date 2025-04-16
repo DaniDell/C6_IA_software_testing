@@ -21,3 +21,6 @@ Este repositorio contiene la solución al challenge de testing con AI.
    ```bash
    git clone https://github.com/tu-usuario/CAP06_CHALLENGE.git
    cd CAP06_CHALLENGE
+
+
+
